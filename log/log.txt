@@ -1,0 +1,20 @@
+INFO:root:welcome
+INFO:root:number1 entered
+INFO:root:number2 entered
+DEBUG:root:before conversion: number1:12,number2:6
+INFO:root:number1 converrted
+INFO:root:number2 converted
+DEBUG:root:after conversion: number1:12.0,number2:6.0
+INFO:root:result calculated
+DEBUG:root:RESULT: 2.0
+INFO:root:Operation completed
+2019-11-30 08:34:20,249==>INFO==>welcome
+2019-11-30 08:34:21,073==>INFO==>number1 entered
+2019-11-30 08:34:22,259==>INFO==>number2 entered
+2019-11-30 08:34:22,260==>DEBUG==>before conversion: number1:12,number2:6
+2019-11-30 08:34:22,260==>INFO==>number1 converrted
+2019-11-30 08:34:22,260==>INFO==>number2 converted
+2019-11-30 08:34:22,260==>DEBUG==>after conversion: number1:12.0,number2:6.0
+2019-11-30 08:34:22,260==>INFO==>result calculated
+2019-11-30 08:34:22,260==>DEBUG==>RESULT: 2.0
+2019-11-30 08:34:22,261==>INFO==>Operation completed
